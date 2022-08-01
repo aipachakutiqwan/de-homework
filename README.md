@@ -15,9 +15,9 @@ The structure of the repository is the following.
 
 How to run the solutions?
 
-Just run the script with the command: python3 src/outdoor_gym_analysis.py. 
+>Just run the script with the command: python3 src/outdoor_gym_analysis.py. 
 In the standard output, it will be printed the solution to all the questions.
 
 How to run the test cases?
 
-Run the command: pytest test
+>Run the command: pytest test
